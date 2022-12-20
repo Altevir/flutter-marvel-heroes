@@ -1,16 +1,12 @@
-# flutter_marvel_heroes
+# Flutter Marvel Heroes
 
-A new Flutter project.
+## Packages utilizados
+- flutter_svg
+- flutter_native_splash
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+### Android
+![screenshot-1671501085433](https://user-images.githubusercontent.com/11803107/208563010-0778deb2-dacc-4ff5-b23f-33967253a71f.png)
+![screenshot-1671501164816](https://user-images.githubusercontent.com/11803107/208563113-00a08e7c-b08d-411a-8336-b735463466bb.png)
+![screenshot-1671501191520](https://user-images.githubusercontent.com/11803107/208563147-f6767775-05c5-4b14-916e-34ea18e01800.png)
+![screenshot-1671501204064](https://user-images.githubusercontent.com/11803107/208563187-a5497042-c1fd-4fa8-ba3c-0e7b7f45e920.png)
