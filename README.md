@@ -18,3 +18,10 @@
 ![Simulator Screen Shot - iPhone 11 - 2022-12-19 at 23 20 46](https://user-images.githubusercontent.com/11803107/208570340-f2d4608c-9cdd-43c1-b355-cce2e5934bd6.png)
 ![Simulator Screen Shot - iPhone 11 - 2022-12-19 at 23 20 53](https://user-images.githubusercontent.com/11803107/208570397-71f126ac-a931-4935-830f-6959ca0b55ff.png)
 ![Simulator Screen Shot - iPhone 11 - 2022-12-19 at 23 21 00](https://user-images.githubusercontent.com/11803107/208570489-65c983ed-f3f1-44b7-be50-4cb62d281621.png)
+
+## Créditos
+## Design
+
+https://dribbble.com/shots/11808737-Marvel-Heroes
+
+![115125126-86c98380-9f9c-11eb-8856-8e8956ca9040](https://user-images.githubusercontent.com/11803107/208658976-2e0c5e56-dab1-4556-a170-e22fbc705028.png)
