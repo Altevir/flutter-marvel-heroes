@@ -140,20 +140,20 @@ class MovieRepository {
 
   static List<Character> humans = [
     Character(
-      name: 'Howard Stark',
-      personName: 'Homem de Ferro',
+      name: 'Home de Ferro',
+      personName: 'Howard Stark',
       universe: 'Terra 999',
       image: 'howard_stark_background.png',
     ),
     Character(
-      name: 'Mary Jane',
-      personName: 'Homem Aranha',
+      name: 'Homem Aranha',
+      personName: 'Mary Jane',
       universe: 'Terra 999',
       image: 'mary_jane_background.png',
     ),
     Character(
-      name: 'Happy Hogan',
-      personName: 'Homem de ferro',
+      name: 'Home de Ferro',
+      personName: 'Happy Hogan',
       universe: 'Terra 999',
       image: 'happy_hogan_background.png',
     ),
